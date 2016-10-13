@@ -1,0 +1,7 @@
+c:\files\projects\ProBiztalkRfid\Chapter7\Exercise7_2\bin\Debug\Exercise7_2.exe
+c:\files\projects\ProBiztalkRfid\Chapter7\Exercise7_2\bin\Debug\Exercise7_2.pdb
+c:\files\projects\ProBiztalkRfid\Chapter7\Exercise7_2\obj\Debug\ResolveAssemblyReference.cache
+c:\files\projects\ProBiztalkRfid\Chapter7\Exercise7_2\obj\Debug\Exercise7_2.Properties.Resources.resources
+c:\files\projects\ProBiztalkRfid\Chapter7\Exercise7_2\obj\Debug\Exercise7_2.csproj.GenerateResource.Cache
+c:\files\projects\ProBiztalkRfid\Chapter7\Exercise7_2\obj\Debug\Exercise7_2.exe
+c:\files\projects\ProBiztalkRfid\Chapter7\Exercise7_2\obj\Debug\Exercise7_2.pdb

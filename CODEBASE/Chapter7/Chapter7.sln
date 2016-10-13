@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise7_2", "Exercise7_2\Exercise7_2.csproj", "{9B4E7560-F242-4D0D-BE50-D07F29D8A049}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloMobileRfid", "HelloMobileRfid\HelloMobileRfid.csproj", "{CC24E54D-992B-4E48-B3C8-302462FFCFDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B4E7560-F242-4D0D-BE50-D07F29D8A049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B4E7560-F242-4D0D-BE50-D07F29D8A049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B4E7560-F242-4D0D-BE50-D07F29D8A049}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9B4E7560-F242-4D0D-BE50-D07F29D8A049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B4E7560-F242-4D0D-BE50-D07F29D8A049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B4E7560-F242-4D0D-BE50-D07F29D8A049}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CC24E54D-992B-4E48-B3C8-302462FFCFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC24E54D-992B-4E48-B3C8-302462FFCFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC24E54D-992B-4E48-B3C8-302462FFCFDF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CC24E54D-992B-4E48-B3C8-302462FFCFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC24E54D-992B-4E48-B3C8-302462FFCFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC24E54D-992B-4E48-B3C8-302462FFCFDF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

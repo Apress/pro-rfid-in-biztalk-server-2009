@@ -1,0 +1,5 @@
+\\Tkzaw-pro-14\Mydocs7\masimms\My Documents\Visual Studio 2008\Projects\ProBiztalkRfid.EventHandlers.MSMQ\bin\Debug\ProBiztalkRfid.EventHandlers.MSMQ.dll
+\\Tkzaw-pro-14\Mydocs7\masimms\My Documents\Visual Studio 2008\Projects\ProBiztalkRfid.EventHandlers.MSMQ\bin\Debug\ProBiztalkRfid.EventHandlers.MSMQ.pdb
+\\Tkzaw-pro-14\Mydocs7\masimms\My Documents\Visual Studio 2008\Projects\ProBiztalkRfid.EventHandlers.MSMQ\obj\Debug\ResolveAssemblyReference.cache
+\\Tkzaw-pro-14\Mydocs7\masimms\My Documents\Visual Studio 2008\Projects\ProBiztalkRfid.EventHandlers.MSMQ\obj\Debug\ProBiztalkRfid.EventHandlers.MSMQ.dll
+\\Tkzaw-pro-14\Mydocs7\masimms\My Documents\Visual Studio 2008\Projects\ProBiztalkRfid.EventHandlers.MSMQ\obj\Debug\ProBiztalkRfid.EventHandlers.MSMQ.pdb

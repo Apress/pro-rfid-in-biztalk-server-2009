@@ -1,0 +1,15 @@
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-5\SyncCommands\obj\Debug\ResolveAssemblyReference.cache
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-5\SyncCommands\bin\Debug\SyncCommands.exe
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-5\SyncCommands\bin\Debug\SyncCommands.pdb
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-5\SyncCommands\obj\Debug\SyncCommands.exe
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-5\SyncCommands\obj\Debug\SyncCommands.pdb
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-6\SyncCommands\obj\Debug\SyncCommands.exe
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-6\SyncCommands\obj\Debug\SyncCommands.pdb
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-6\SyncCommands\bin\Debug\SyncCommands.exe
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-6\SyncCommands\bin\Debug\SyncCommands.pdb
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-6\SyncCommands\obj\Debug\ResolveAssemblyReference.cache
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-7\SyncCommands\obj\Debug\SyncCommands.exe
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-7\SyncCommands\obj\Debug\SyncCommands.pdb
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-7\SyncCommands\bin\Debug\SyncCommands.exe
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-7\SyncCommands\bin\Debug\SyncCommands.pdb
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-7\SyncCommands\obj\Debug\ResolveAssemblyReference.cache

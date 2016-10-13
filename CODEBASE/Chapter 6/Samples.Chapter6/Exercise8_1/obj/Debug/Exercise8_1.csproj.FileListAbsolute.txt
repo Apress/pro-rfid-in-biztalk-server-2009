@@ -1,0 +1,5 @@
+\\Tkzaw-pro-14\Mydocs7\masimms\My Documents\Personal\Pro Biztalk RFID\Samples.Chapter6\Exercise8_1\obj\Debug\ResolveAssemblyReference.cache
+\\Tkzaw-pro-14\Mydocs7\masimms\My Documents\Personal\Pro Biztalk RFID\Samples.Chapter6\Exercise8_1\bin\Debug\Exercise8_1.exe
+\\Tkzaw-pro-14\Mydocs7\masimms\My Documents\Personal\Pro Biztalk RFID\Samples.Chapter6\Exercise8_1\bin\Debug\Exercise8_1.pdb
+\\Tkzaw-pro-14\Mydocs7\masimms\My Documents\Personal\Pro Biztalk RFID\Samples.Chapter6\Exercise8_1\obj\Debug\Exercise8_1.exe
+\\Tkzaw-pro-14\Mydocs7\masimms\My Documents\Personal\Pro Biztalk RFID\Samples.Chapter6\Exercise8_1\obj\Debug\Exercise8_1.pdb

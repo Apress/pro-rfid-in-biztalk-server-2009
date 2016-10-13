@@ -1,0 +1,10 @@
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\SyncSample2\bin\Debug\SyncSample2.exe
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\SyncSample2\bin\Debug\SyncSample2.pdb
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\SyncSample2\obj\Debug\ResolveAssemblyReference.cache
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\SyncSample2\obj\Debug\SyncSample2.exe
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\SyncSample2\obj\Debug\SyncSample2.pdb
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-3\SyncSample2\obj\Debug\SyncSample2.exe
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-3\SyncSample2\obj\Debug\SyncSample2.pdb
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-3\SyncSample2\obj\Debug\ResolveAssemblyReference.cache
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-3\SyncSample2\bin\Debug\SyncSample2.exe
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-3\SyncSample2\bin\Debug\SyncSample2.pdb

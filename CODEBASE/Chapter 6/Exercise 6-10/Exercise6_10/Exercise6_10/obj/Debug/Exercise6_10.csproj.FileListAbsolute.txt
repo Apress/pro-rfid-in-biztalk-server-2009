@@ -1,0 +1,8 @@
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-10\Exercise6_10\Exercise6_10\bin\Debug\Exercise6_10.exe
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-10\Exercise6_10\Exercise6_10\bin\Debug\Exercise6_10.pdb
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-10\Exercise6_10\Exercise6_10\obj\Debug\ResolveAssemblyReference.cache
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-10\Exercise6_10\Exercise6_10\obj\Debug\Exercise6_11.Form1.resources
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-10\Exercise6_10\Exercise6_10\obj\Debug\Exercise6_10.Properties.Resources.resources
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-10\Exercise6_10\Exercise6_10\obj\Debug\Exercise6_10.csproj.GenerateResource.Cache
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-10\Exercise6_10\Exercise6_10\obj\Debug\Exercise6_10.exe
+C:\Files\Pro Biztalk RFID\Code\Chapter 6\Exercise 6-10\Exercise6_10\Exercise6_10\obj\Debug\Exercise6_10.pdb

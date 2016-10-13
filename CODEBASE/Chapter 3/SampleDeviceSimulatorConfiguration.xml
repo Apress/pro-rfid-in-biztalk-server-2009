@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<profile>
+  <section name="NumberOfDevices">
+    <entry name="DeviceCount">1</entry>
+  </section>
+
+  <section name="DeviceInformation_1">
+    <entry name="DeviceName">ContosoTestDevice</entry>
+    <entry name="ConnectionType">TCPIP</entry>
+    <entry name="IpAddress">0.0.0.0</entry>
+    <entry name="PortNumber">6666</entry>
+    <entry name="ProviderId">Contoso</entry>
+    <entry name="NotificationDataFile">ContosoNotificationConfig.xml</entry>
+    <entry name="DeviceTranslatorAssemblyPath">
+      Microsoft.Rfid.Test.ContosoDeviceTranslator.dll
+    </entry>
+    <entry name="DeviceTranslatorConfigFile"></entry>
+  </section>
+</profile>

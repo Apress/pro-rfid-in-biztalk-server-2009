@@ -1,0 +1,5 @@
+C:\Files\Pro Biztalk RFID\Code\Chapter 10\WmiListener\bin\Debug\WmiListener.exe
+C:\Files\Pro Biztalk RFID\Code\Chapter 10\WmiListener\bin\Debug\WmiListener.pdb
+C:\Files\Pro Biztalk RFID\Code\Chapter 10\WmiListener\obj\Debug\ResolveAssemblyReference.cache
+C:\Files\Pro Biztalk RFID\Code\Chapter 10\WmiListener\obj\Debug\WmiListener.exe
+C:\Files\Pro Biztalk RFID\Code\Chapter 10\WmiListener\obj\Debug\WmiListener.pdb

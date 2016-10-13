@@ -1,0 +1,14 @@
+c:\files\projects\ProBiztalkRfid\Chapter7\HelloMobileRfid\obj\Debug\ResolveAssemblyReference.cache
+c:\files\projects\ProBiztalkRfid\Chapter7\HelloMobileRfid\obj\Debug\HelloMobileRfid.Form1.resources
+c:\files\projects\ProBiztalkRfid\Chapter7\HelloMobileRfid\obj\Debug\HelloMobileRfid.Properties.Resources.resources
+c:\files\projects\ProBiztalkRfid\Chapter7\HelloMobileRfid\obj\Debug\HelloMobileRfid.csproj.GenerateResource.Cache
+c:\files\projects\ProBiztalkRfid\Chapter7\HelloMobileRfid\bin\Debug\HelloMobileRfid.exe
+c:\files\projects\ProBiztalkRfid\Chapter7\HelloMobileRfid\bin\Debug\HelloMobileRfid.pdb
+c:\files\projects\ProBiztalkRfid\Chapter7\HelloMobileRfid\bin\Debug\Microsoft.Rfid.Design.dll
+c:\files\projects\ProBiztalkRfid\Chapter7\HelloMobileRfid\bin\Debug\Microsoft.Rfid.Llrp.dll
+c:\files\projects\ProBiztalkRfid\Chapter7\HelloMobileRfid\bin\Debug\Microsoft.Rfid.ObjectModelExtensions.dll
+c:\files\projects\ProBiztalkRfid\Chapter7\HelloMobileRfid\bin\Debug\Microsoft.Rfid.SpiSdk.dll
+c:\files\projects\ProBiztalkRfid\Chapter7\HelloMobileRfid\bin\Debug\Microsoft.Rfid.Util.dll
+c:\files\projects\ProBiztalkRfid\Chapter7\HelloMobileRfid\bin\Debug\System.Data.SqlServerCe.dll
+c:\files\projects\ProBiztalkRfid\Chapter7\HelloMobileRfid\obj\Debug\HelloMobileRfid.exe
+c:\files\projects\ProBiztalkRfid\Chapter7\HelloMobileRfid\obj\Debug\HelloMobileRfid.pdb

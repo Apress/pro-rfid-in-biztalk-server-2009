@@ -1,0 +1,8 @@
+c:\Temp\Exercise6_11\Exercise6_11\obj\Debug\ResolveAssemblyReference.cache
+c:\Temp\Exercise6_11\Exercise6_11\obj\Debug\Exercise6_11.Form1.resources
+c:\Temp\Exercise6_11\Exercise6_11\obj\Debug\Exercise6_11.Properties.Resources.resources
+c:\Temp\Exercise6_11\Exercise6_11\obj\Debug\Exercise6_11.csproj.GenerateResource.Cache
+c:\Temp\Exercise6_11\Exercise6_11\bin\Debug\Exercise6_11.exe
+c:\Temp\Exercise6_11\Exercise6_11\bin\Debug\Exercise6_11.pdb
+c:\Temp\Exercise6_11\Exercise6_11\obj\Debug\Exercise6_11.exe
+c:\Temp\Exercise6_11\Exercise6_11\obj\Debug\Exercise6_11.pdb

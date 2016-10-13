@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<profile>
+  <section name="Notification">
+    <entry name="TimePeriod">10000</entry>
+    <entry name="Distribution">EXPONENTIAL</entry>
+    <entry name="NotificationErrorRate">0</entry>
+    <entry name="WaitAfterNotification">1000</entry>
+    <entry name="InitialDelay">100</entry>
+    <entry name="Duplicate_Elimination_Time">0</entry>
+    <entry name="InfiniteNotification">FALSE</entry>
+    <entry name="ContinuousDataSection">1</entry>
+    <entry name="DiscreteDataSection">0</entry>
+  </section>
+  <section name="Continuous Data Section 1">
+    <entry name="StartingData">1000</entry>
+    <entry name="TotalData">10000</entry>
+    <entry name="TagType">1</entry>
+    <entry name="TagData">SampleTagData</entry>
+    <entry name="TagSource">Antenna1</entry>
+    <entry name="DelayTime">1</entry>
+  </section>
+</profile>
